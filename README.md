@@ -11,5 +11,3 @@ To check for updates, run:
 `git pull distribution master`
 
 You should run this periodically to check for updates.
-
-change
